@@ -8,9 +8,16 @@
 		<summary lang="en">Nakamori Icons and Images</summary>
 		<description lang="en">Nakamori Icons and Images that are needed to proper display menus</description>
 		<news>
-			v3.0.0 (2018-08-08)
+			v3.0.0 (2018-09-03)
 			- initial release
 		</news>
 		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>https://shokunin.monogatari.pl/nakamori/</website>
+		<source>https://github.com/bigretromike/nakamori.resource/</source>
+		<email></email>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 	</extension>
 </addon>
